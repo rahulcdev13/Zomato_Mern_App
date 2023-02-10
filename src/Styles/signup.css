@@ -1,0 +1,49 @@
+.signuppage {
+    width: 500px;
+    border: 1px solid white;
+    padding: 25px;
+    background-color: white;
+    box-shadow: 5px 10px #e22121;
+    border-radius: 5px; 
+    position: absolute;
+    top: 50%;
+    left: 75%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+}
+.sign{
+    font-weight: bold;
+    font-size: 25px;  
+    text-align: center; 
+}
+p{
+    text-align: center;
+}
+
+.bgimage {
+    background-image: url('https://media.istockphoto.com/id/1371981123/photo/hamburger-with-cheese-and-fresh-vegetables.jpg?b=1&s=170667a&w=0&k=20&c=L7o8GcG7tlqllZV_4pvEVSA4CVK7PuROrzHRpaCQ7FY=');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+.loginpage {
+    width: 500px;
+    border: 1px solid white;
+    padding: 25px;
+    background-color: white;
+    box-shadow: 5px 10px #e22121;
+    border-radius: 5px; 
+    position: absolute;
+    top: 50%;
+    left: 75%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+}
+
+.bgimagelogin {
+    background-image: url('https://media.istockphoto.com/id/1371981123/photo/hamburger-with-cheese-and-fresh-vegetables.jpg?b=1&s=170667a&w=0&k=20&c=L7o8GcG7tlqllZV_4pvEVSA4CVK7PuROrzHRpaCQ7FY=');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}

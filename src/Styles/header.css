@@ -1,0 +1,16 @@
+.linkss{
+    text-decoration: none;
+}
+.header {
+    position: sticky;
+    top: 0px;
+    z-index: 1;
+    max-width: 500px;
+}
+#Carousel{
+    max-height: 600px;
+    filter: brightness(30%);
+}
+.carousal-caption{
+    max-height: 600px;
+}

@@ -1,0 +1,19 @@
+{
+    "sliderData": [
+        {
+        "id": 1,
+        "sliderImg" : "https://c4.wallpaperflare.com/wallpaper/914/499/613/burger-burgers-food-knife-fork-hd-wallpaper-preview.jpg?fit=around|771.75:416.25&crop=771.75:416.25;*,*",
+        "imgTitle": "First-Slider"
+        },
+        {
+        "id": 2,
+        "sliderImg" : "https://b.zmtcdn.com/data/pictures/4/18711834/a1ebefc4077d12bf0271ba3545e9c883.jpg?fit=around|771.75:416.25&crop=771.75:416.25;*,*",
+        "imgTitle": "Second-Slider"
+        },
+        {
+        "id": 3,
+        "sliderImg" : "https://s01.sgp1.cdn.digitaloceanspaces.com/article/117714-fpfzghttxj-1555508155.jpg?fit=around|771.75:416.25&crop=771.75:416.25;*,*",
+        "imgTitle": "Third-Slider"
+        }
+    ]
+}
